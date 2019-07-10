@@ -1,1 +1,5 @@
-08:95:2a:a6:85:f9,"meu teste"
+{
+  "bssid": "08:95:2a:a6:85:f9",
+  "meu teste"
+
+}
